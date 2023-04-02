@@ -7780,7 +7780,7 @@ input#pic-link {
 
 /* heo 加载动画头像 */
 .loading-img {
-  background: url(https://tuchuang.voooe.cn/images/2023/01/02/avatar.webp)
+  background: url(https://cdn.staticaly.com/gh/eurekaakira/pic_bed@main/image/zhensi.webp)
     no-repeat center center;
   background-size: cover;
 }
